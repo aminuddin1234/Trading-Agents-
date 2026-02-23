@@ -1,0 +1,139 @@
+"================================================================================
+AMD STOCK ANALYSIS - TRADINGAGENTS WORKFLOW DIAGRAM
+February 20, 2026
+================================================================================
+
+INPUT: AMD @ $210 (Feb 20, 2026)
+
+================================================================================
+PHASE 1: PARALLEL ANALYSIS (All agents run simultaneously)
+================================================================================
+
++------------------+   +------------------+   +------------------+
+|  MARKET ANALYST  |   | FUNDAMENTALS     |   | NEWS ANALYST     |
++------------------+   +------------------+   +------------------+
+| Price: $210      |   | Forward PE: 18.78|   | Q4 Earnings Soon |
+| 200 SMA: $184    |   | Growth: 310%     |   | Nvidia Threat    |
+| MACD: Bearish    |   | Q4 Rev: +34%     |   | AI Demand Strong |
+| RSI: Neutral     |   | Margins: Expanding|   |                  |
+| Death Cross Form |   | Cash: $10.5B     |   |                  |
++------------------+   +------------------+   +------------------+
+| REPORT: "Technical|   | REPORT: "Strong   |   | REPORT: "Mixed    |
+| weakness, but    |   | fundamentals,    |   | sentiment.       |
+| above long-term  |   | priced for       |   | Nvidia competition|
+| support"         |   | perfection"      |   | a concern"       |
++------------------+   +------------------+   +------------------+
+
+================================================================================
+PHASE 2: RESEARCH DEBATE (Bull vs Bear)
+================================================================================
+
++------------------+          +------------------+
+| BULL RESEARCHER  |<-------->| BEAR RESEARCHER  |
++------------------+   DEBATE +------------------+
+|                  |          |                  |
+| "Forward PE 18.78|          | "310% growth     |
+| is cheap for     |          | already priced   |
+| 310% growth"     |          | in. Zero margin  |
+|                  |          | for error."      |
+| "Q4 execution    |          |                  |
+| excellent -     |          | "MACD death cross|
+| $10.27B rev"     |          | forming.         |
+|                  |          | Momentum bearish"|
+| "Above 200 SMA   |          |                  |
+| support"         |          | "Nvidia entering |
+|                  |          | CPU market -     |
+|                  |          | threat to AMD"   |
++------------------+          +------------------+
+         |                            |
+         +------------+---------------+
+                      |
+                      V
+            JUDGE DECISION: CAUTION
+            "Both have valid points.
+             Bull: Strong execution
+             Bear: Priced for perfection
+             Technicals weak"
+
+================================================================================
+PHASE 3: RISK MANAGEMENT DEBATE
+================================================================================
+
++------------------+   +------------------+   +------------------+
+| AGGRESSIVE       |   | NEUTRAL          |   | CONSERVATIVE     |
++------------------+   +------------------+   +------------------+
+|                  |   |                  |   |                  |
+| "Buy now!       |   | "Hold existing.  |   | "Wait for        |
+| 18.78x PE is    |   | Wait for better  |   | $195-200 before  |
+| gift for 310%    |   | entry on        |   | adding. Risk/     |
+| growth"          |   | weakness"        |   | reward poor"     |
+|                  |   |                  |   |                  |
+| "Death cross is  |   |                  |   |                  |
+| contrarian buy"  |   |                  |   |                  |
++------------------+   +------------------+   +------------------+
+         |                    |                    |
+         +--------------------+--------------------+
+                              |
+                              V
+                    RISK MANAGER ANALYSIS:
+                    "Volatility high (ATR 11.59)
+                     Beta 1.95 = 2x market risk
+                     Support at $184, resistance $220
+                     Current: middle of range"
+
+================================================================================
+PHASE 4: FINAL DECISION
+================================================================================
+
++------------------+
+|     TRADER       |
+|                  |
+| INPUTS:          |
+| - Market: Weak   |
+| - Fundamentals:  |
+|   Strong but     |
+|   priced in      |
+| - Bull/Bear:     |
+|   Split          |
+| - Risk: Elevated |
+|                  |
+| SYNTHESIS:       |
+| "Strong company  |
+|  at fair price   |
+|  with technical  |
+|  headwinds.      |
+|  Risk/reward     |
+|  unfavorable."   |
+|                  |
+| DECISION:        |
+|   +--------+     |
+|   |  HOLD  |     |
+|   +--------+     |
+|                  |
+| ACTION:          |
+| - Keep existing  |
+| - Wait for       |
+|   $195-200       |
+| - Don't add at   |
+|   $210           |
++------------------+
+
+================================================================================
+OUTPUT: HOLD
+================================================================================
+
+RATIONING:
+1. Technical momentum bearish (MACD expanding negative)
+2. Priced for perfection (310% growth expected)
+3. Nvidia competition intensifying
+4. Risk/reward poor at current levels
+5. Better entry at $195-200 support
+
+================================================================================
+FILES GENERATED:
+- AMD_Analysis_Summary.txt (This diagram)
+- AMD_Trading_Chart_2026-02-20.png (Price chart)
+- eval_results/AMD/.../full_states_log_2026-02-20.json (Full JSON data)
+
+================================================================================
+"

@@ -1,0 +1,282 @@
+============================================================
+  ORCL STOCK ANALYSIS REPORT
+  TradingAgents Framework (8 AI Agents)
+  Date: 2026-02-22
+============================================================
+
+MARKET DATA
+----------------------------------------
+Company: Oracle Corporation
+Sector: Technology
+Current Price: $148.08
+Previous Close: $156.54
+Change: -5.40%
+Market Cap: $425.60B
+P/E Ratio: 27.834585
+EPS: $5.32
+Beta: 1.633
+
+============================================================
+  FINAL DECISION: SELL
+============================================================
+
+MARKET ANALYST REPORT
+----------------------------------------
+Now I have all the data needed for a comprehensive analysis. Let me compile a detailed report.
+
+---
+
+# Oracle Corporation (ORCL) Technical Analysis Report
+**Date:** February 22, 2026
+
+## Executive Summary
+
+Oracle (ORCL) has experienced a dramatic selloff over the past seven weeks, declining approximately **27%** from its early January highs near $204 to the current price around $148. The stock has shown signs of extreme oversold conditions and may be approaching a short-term bottom, though the overall trend remains firmly bearish.
+
+---
+
+## Detailed Trend Analysis
+
+### 1. Price Action & Trend Structure
+
+The stock exhibited a clear breakdown pattern:
+- **Peak (Jan 12, 2026):** $204.68
+- **Trough (Feb 5, 2026):** $136.48  
+- **Current (Feb 20, 2026):** $148.08
+- **Decline:** -$56.60 (-27.6%)
+
+The selloff accelerated dramatically in late January and early February, with five consecutive days of heavy selling (Jan 29 - Feb 5) that saw the stock plunge from ~$169 to ~$136—a **20% drop in just 5 trading days**. This was accompanied by massive volume spikes, peaking at 49.9 million shares on Feb 9—nearly 3.4x the average volume.
+
+### 2. Moving Averages Analysis
+
+| Indicator | Value (Feb 20) | Price Relationship |
+|-----------|----------------|---------------------|
+| 10 EMA    | 155.28         | Price below (bearish) |
+| 50 SMA    | 179.73         | Price below (bearish) |
+| 200 SMA   | 219.93         | Price below (bearish) |
+
+**Key Observations:**
+- **Death Cross Confirmed:** The 50 SMA has definitively crossed below the 200 SMA (around $180 level), generating a classic bearish death cross signal. This is a significant long-term bearish confirmation.
+- **Price Trading Below All MAs:** The current price ($148) is **$31 below the 50 SMA** and **$72 below the 200 SMA**, indicating a severe downtrend.
+- **10 EMA Acting as Resistance:** The 10 EMA ($155.28) is now serving as immediate resistance; price has failed to sustain breaks above this level multiple times in recent days.
+
+### 3. Bollinger Bands Analysis
+
+| Band | Value (Feb 20) | Interpretation |
+|------|----------------|----------------|
+| Upper Band | 182.59 | Former support, now resistance |
+| Middle Band | 159.33 | Dynamic resistance |
+| Lower Band | 136.08 | Recent floor |
+
+**Key Observations:**
+- On **Feb 5-6**, the price briefly breached below the lower Bollinger Band ($140-$146 range), which typically signals extreme oversold conditions and often precedes mean-reversion bounces.
+- The stock has since recovered to trade between the lower and middle bands—a typical consolidation pattern after an extreme breakdown.
+- The **bandwidth has contracted significantly** in recent days, suggesting the volatility may be normalizing and a new trading range could be forming.
+
+### 4. RSI (Relative Strength Index)
+
+| Date | RSI Value | Interpretation |
+|------|-----------|----------------|
+| Feb 5, 2026 | 20.31 | Extreme oversold (<30) |
+| Feb 6, 2026 | 27.09 | Oversold |
+| Feb 20, 2026 | 36.40 | Bearish but
+
+FUNDAMENTALS ANALYST REPORT
+----------------------------------------
+Now I have all the data needed. Let me compile a comprehensive fundamental analysis report for Oracle Corporation (ORCL).
+
+---
+
+# Oracle Corporation (ORCL) - Comprehensive Fundamental Analysis Report
+
+**Report Date:** February 22, 2026  
+**Data Period:** FY2025 - FY2026 Quarterly Results
+
+---
+
+## 1. Company Profile
+
+| Attribute | Details |
+|-----------|---------|
+| **Company Name** | Oracle Corporation |
+| **Sector** | Technology |
+| **Industry** | Software - Infrastructure |
+| **Market Capitalization** | $425.6 billion |
+| **Beta** | 1.633 (High volatility) |
+| **52-Week Range** | $118.86 - $345.72 |
+
+---
+
+## 2. Valuation Analysis
+
+| Metric | Value | Analysis |
+|--------|-------|----------|
+| **PE Ratio (TTM)** | 27.83x | Moderate valuation relative to tech sector |
+| **Forward PE** | 18.73x | Significant earnings growth expected (49% upside) |
+| **Price to Book** | 14.20x | Premium valuation; reflects intangible-heavy balance sheet |
+| **EPS (TTM)** | $5.32 | Strong earnings power |
+| **Forward EPS** | $7.90 | Expected 48.5% YoY EPS growth |
+| **Dividend Yield** | 1.35% | Modest yield; ~$2.00/share annually |
+
+**Key Insight:** The substantial discount between trailing PE (27.83x) and forward PE (18.73x) indicates analysts expect significant earnings acceleration, likely driven by cloud infrastructure growth and AI-related services.
+
+---
+
+## 3. Revenue & Profitability Analysis
+
+### Quarterly Revenue Trend (Last 5 Quarters)
+
+| Quarter | Revenue | QoQ Change | YoY Growth |
+|---------|---------|------------|------------|
+| Q2 FY2026 (Nov 2025) | $16.06B | +7.6% | +14.2% |
+| Q1 FY2026 (Aug 2025) | $14.93B | -6.1% | +6.2% |
+| Q4 FY2025 (May 2025) | $15.90B | +12.5% | +9.8% |
+| Q3 FY2025 (Feb 2025) | $14.13B | +0.5% | +3.9% |
+| Q2 FY2025 (Nov 2024) | $14.06B | - | - |
+
+**TTM Revenue:** $61.02 billion
+
+### Profitability Metrics (TTM)
+
+| Metric | Value | Assessment |
+|--------|-------|------------|
+| **Gross Profit** | $41.82B | 68.5% gross margin - Excellent |
+| **EBITDA** | $26.27B | 43.1% EBITDA margin |
+| **Operating Income** | $19.53B | 32.0% operating margin |
+| **Net Income** | $15.43B | 25.3% profit margin |
+| **Return on Equity** | 69.0% | Exceptional - driven by high leverage |
+| **Return on Assets** | 6.9% | Moderate |
+
+### Quarterly Net Income Trend
+
+| Quarter | Net Income | EPS (Diluted) | Margin |
+|---------|------------|---------------|--------|
+| Q2 FY2026 (Nov 2025) | $6.14B | $2.10 | 38.2% |
+| Q1 FY2026 (Aug 2025) | $2.93B | $1.01 | 19.6% |
+| Q4 FY2025 (May 2025) | $3.43B | $1.19 | 21.6% |
+| Q3 FY2025 (Feb 2025) | $2.94B | $1.02 | 20.8% |
+| Q2 FY2025 (Nov 2024) | $3.15B | $1.10 | 22.4% |
+
+**Key Insight:** Q2 FY2026 showed exceptional performance with net income more than doubling from the prior quarter, driven by a $2.47 billion gain on sale of security. Excluding this, normalized earnings show strong but more moderate growth.
+
+---
+
+## 4. Balance Sheet Analysis
+
+### Liquidity Concerns
+
+| Metric | Value | Concern Level |
+|--------|-----
+
+NEWS ANALYST REPORT
+----------------------------------------
+# Comprehensive Trading & Macroeconomics Report: Oracle (ORCL) & Global Markets
+## Week of February 15-22, 2026
+
+---
+
+## Executive Summary
+
+This week presents a complex landscape for Oracle (ORCL) and technology stocks broadly. While AI infrastructure spending continues at unprecedented levels, investor sentiment has shifted dramatically amid mounting concerns about returns on capital, legal challenges, and broader macroeconomic headwinds. The key question for traders: Is the recent pullback in ORCL an opportunity to buy the dip, or a warning sign of deeper structural issues?
+
+---
+
+## Oracle (ORCL) Stock Analysis
+
+### Price Action & Recent Performance
+
+Oracle stock has experienced a significant decline, with reports indicating a **55% plunge** from recent highs. Despite positive AI-related news—including reports of Nvidia's $30 billion investment into OpenAI—ORCL failed to rally, suggesting deep-rooted investor concerns.
+
+### Key Fundamental Developments
+
+**1. Aggressive AI CapEx Creating Headwinds**
+- Oracle is in the midst of a major expansion of its data center footprint to support contracted AI workloads
+- Combined AI spending by Big Four hyperscalers (Microsoft, Alphabet, Meta, Amazon) projected at **$600 billion in 2026**
+- Adding Oracle's projected spending brings the total to **$650 billion**—a nearly **60% increase** from 2025 levels
+- This massive capital expenditure is weighing heavily on ORCL stock
+
+**2. Securities Class Action Lawsuits**
+Multiple law firms have filed securities class action lawsuits against Oracle, focusing on:
+- Misleading investors about risks tied to AI infrastructure spending
+- Expected financial returns on AI investments
+- Impact of AI buildout on company debt
+- Alleged lack of transparency regarding project delays and funding withdrawals
+
+**3. Ray Dalio's Bearish Stance**
+Legendary investor Ray Dalio (Bridgewater Associates) has:
+- Repeatedly expressed concerns about the U.S. economy
+- Cited unsustainable debt and geopolitical con
+
+SENTIMENT REPORT
+----------------------------------------
+# Oracle Corporation (ORCL) Stock Analysis Report
+## Comprehensive News, Social Media & Sentiment Analysis
+### Week of February 15-22, 2026
+
+---
+
+## Executive Summary
+
+Oracle Corporation (ORCL) is currently navigating a challenging market environment characterized by significant stock price weakness, legal headwinds, and heightened investor scrutiny over its aggressive AI infrastructure investments. The stock has experienced a dramatic decline of approximately 55% from recent highs, prompting questions about whether this presents a buying opportunity or signals deeper structural concerns. This report provides a detailed analysis of recent developments, investor sentiment, and implications for traders and long-term investors.
+
+---
+
+## 1. Stock Performance & Market Context
+
+### Recent Price Action
+
+Oracle stock has experienced substantial weakness, with reports indicating a **55% plunge** from recent highs. The stock slumped recently despite positive AI-related news, including Nvidia's potential $30 billion investment into OpenAI—which would typically be viewed as bullish for Oracle given its cloud infrastructure partnerships.
+
+The broader software sector has shown signs of stabilization according to Barron's, which noted that "software stocks are finally stabilizing. They could bounce back." This could provide a tailwind for ORCL if the sector-wide recovery continues.
+
+### Technical Analysis Insights
+
+According to Barchart's analysis using volatility skew as a "smart money" gauge, Oracle is being monitored alongside other major names like Apple and Target for signs of institutional positioning. The volatility skew indicator can help retail traders gauge whether professional money is accumulating or distributing shares.
+
+---
+
+## 2. AI Infrastructure Investment & Capital Spending Concerns
+
+### The $650 Billion AI Spending Boom
+
+One of the most significant themes affecting Oracle is the massive wave of AI infrastructure spending across the tech sector. According to Barr
+
+TRADER INVESTMENT DECISION
+----------------------------------------
+## Analysis Summary
+
+The provided investment plan presents a thorough bear case for Oracle (ORCL), and I find the reasoning compelling. Here's my evaluation:
+
+### Key Concerns Validated:
+1. **Cash Flow Crisis**: TTM FCF of negative $10.2B with CapEx tripling year-over-year to $12B in Q2 alone is alarming. This isn't growth investment—it's operational burning.
+
+2. **Earnings Quality**: The 48.5% EPS growth is inflated by a one-time $2.47B gain. Strip that out, and organic growth is far more modest.
+
+3. **AI Positioning**: Oracle is a distant 5th in cloud infrastructure, competing against hyperscalers spending 10-20x more. Partnerships with Nvidia/OpenAI sound good but haven't translated to revenue.
+
+4. **Technical Weakness**: The death cross, RSI at 36 (still bearish), and stock trading 33% below the 200-day MA confirm a structural downtrend.
+
+5. **Legal/Governance Risks**: The lawsuits contain serious allegations about misrepresenting AI infrastructure risks—these aren't routine securities cases.
+
+### Why "Oversold" Isn't Enough:
+The RSI recovery from 20.31 to 36 still places the stock in bearish territory. History shows oversold conditions can persist for extended periods when fundamentals deteriorate.
+
+### Conclusion:
+The risk-reward profile is unfavorable. The market has correctly repriced Oracle's AI narrative as overblown, and fundamental weaknesses (negative FCF, debt burden, weak competitive positioning) remain unresolved.
+
+FINAL TRANSACTION PROPOSAL: **SELL**
+
+RISK ASSESSMENT
+----------------------------------------
+Alright, let me work through this carefully. I've read both arguments thoroughly, and I need to make a definitive call here.
+
+Looking at what the bull and bear analysts are fighting over, the core disagreement comes down to three things: whether Oracle's earnings growth is real or inflated by one-time items, whether the massive AI spending will actually translate to revenue, and whether the debt load is manageable strategic investment or the beginning of a spiral.
+
+The bull makes a compelling case on valuation. Forward PE of 18.73x with near 50% EPS growth is indeed rare for a company with Oracle's market position. The profitability metrics—25% net margin, 69% ROE—are exceptional. When you find a company printing that kind of returns at a discount, you usually want to pay attention.
+
+But here's where I think the bull gets careless. That 48.5% EPS growth projection? The bear is right to question it. Q2 FY2026 included a $2.47 billion gain on sale of security. Strip that out and you're looking at far more modest organic growth. The market isn't stupid—it sees through one-time items. That's why the stock has declined despite the bullish narrative.
+
+Now let's talk about the elephant in the room: the cash flow situation. The bear is absolutely correct that the free cash flow picture is ugly. TTM FCF of negative $10.2 billion, with Q2 CapEx of $12 billion up threefold from the prior year. They're burning billions every quarter. Yes, they have $19 billion in cash, but at this burn rate, that gets eaten up in under two years. The debt is funding operations, not just growth. When you have to issue $14 billion in new debt in a single quarter just to keep the lights on, that's not strategic investment—that's a treadmill.
+
+The bull counters that this is necessary CapEx to capture the AI infrastructure boom. Here's my concern: Oracle is a distant fifth in cloud infrastructure behind AWS, Azure, and Google Cloud. They're competing against companies spending 10x, 20x more. The par
+

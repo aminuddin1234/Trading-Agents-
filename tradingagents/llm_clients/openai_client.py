@@ -25,6 +25,8 @@ class UnifiedChatOpenAI(ChatOpenAI):
             model_lower.startswith("o1")
             or model_lower.startswith("o3")
             or "gpt-5" in model_lower
+            or "deepseek-r1" in model_lower
+            or "deepseek" in model_lower and "r1" in model_lower
         )
 
 
